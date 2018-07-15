@@ -1,0 +1,5 @@
+Total Months: 41
+Total Revenue: $18971412
+AVG Monthly Change in Revenue: $-6594.12
+Maximum Increase in Revenue: 16-Feb (1837235)
+Maximum Decrease in Revenue: 14-Aug (-1779747)
