@@ -1,5 +1,6 @@
 import os 
 import csv
+import pprint
 
 # read csv
 with open('budget_data.csv', mode='r', newline='') as csv_file:
@@ -32,3 +33,5 @@ with open('budget_data.csv', mode='r', newline='') as csv_file:
     #print('Greatest Increase in Revenue: $' + str(max(data['Revenue'] for data in data))) #prints max value
 
     print(max(data, key=lambda x:x['Revenue']))
+    #pprint.pprint(data)
+
